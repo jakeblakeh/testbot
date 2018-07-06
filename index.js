@@ -99,4 +99,4 @@ module.exports.help = {
 };
 
 
-Client.login("NDY0MDkxMDI2NzUyMTQzMzgw.Dh6Beg.s_hpCLb13L6IZ81xuC0Vj6Nh3t8");
+Client.login("NDY0OTM2NDA1NjgxMDQ1NTQ0.DiGNSA.FmqvaMlzPbXn_62YBZAQ__9betc");
